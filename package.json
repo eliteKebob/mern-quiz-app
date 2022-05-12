@@ -1,0 +1,16 @@
+{
+  "name": "mern-quiz-app",
+  "version": "1.0.0",
+  "description": "Mern Quiz \u001b[D\u001b[D\u001b[D\u001b[D\u001b[DSimple Quiz App",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Kaan O",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
